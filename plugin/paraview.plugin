@@ -1,0 +1,8 @@
+NAME
+  GmshReader
+DESCRIPTION
+  Reader for visualization of GMSH meshes
+REQUIRES_MODULES
+  VTK::CommonCore
+  VTK::IOCore
+  VTK::FiltersCore
